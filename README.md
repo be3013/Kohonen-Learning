@@ -1,4 +1,6 @@
 # Kohonen-Learning
+https://colab.research.google.com/drive/1rx2DSsz8Pfk61b04QtvomQaFU85_FyTc?usp=sharing
+https://drive.google.com/drive/folders/1dTZQBX3X1thLCA_BNFXrs--9fArzOt_v?usp=sharing
 
 Este projeto demonstra o uso de uma Rede Auto-Organizada para organizar e classificar dados do conjunto MNIST. A implementação é dividida em dois scripts: um para o treinamento da rede e salvamento do modelo, e outro para carregamento do modelo treinado e predição.
 
